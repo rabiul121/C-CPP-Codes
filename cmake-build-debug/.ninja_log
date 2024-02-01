@@ -1,0 +1,12 @@
+# ninja log v5
+9	236	7285120902703615	CMakeFiles/C_Codes.dir/7_arithmatic_operator.c.obj	eb9c8f59d408cdae
+4	149	7285117539984807	CMakeFiles/C_Codes.dir/10_math.c.obj	905cee53b50e0f8
+12	96	7285120388611887	CMakeFiles/C_Codes.dir/6_constant.c.obj	e953a6759393aa86
+15	149	7285117539984807	CMakeFiles/C_Codes.dir/1_HelloWorld.c.obj	9463dc1f26386e4f
+15	142	7285117617619438	CMakeFiles/C_Codes.dir/3_comments.c.obj	ce730c6edf7695d1
+12	145	7285117617659437	CMakeFiles/C_Codes.dir/2_Scape_Characters.c.obj	a7c31c600054651
+8	155	7285118635231957	CMakeFiles/C_Codes.dir/4_data_types.c.obj	c4edb1dd9e117e6b
+9	95	7285120388611887	CMakeFiles/C_Codes.dir/5_format_specifier.c.obj	9b45d6ddf90de7c5
+16	154	7285118635270297	CMakeFiles/C_Codes.dir/4_variables.c.obj	656bc7af86e0ddfa
+12	237	7285120902713664	CMakeFiles/C_Codes.dir/8_augmented_operators.c.obj	49fe678959a49881
+8	116	7285122086579334	CMakeFiles/C_Codes.dir/9_user_input.c.obj	9ffb7410fe852fc4
