@@ -1,0 +1,74 @@
+[
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\10_math.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\10_math.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/10_math.c",
+  "output": "CMakeFiles/C_Codes.dir/10_math.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\11_circle.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\11_circle.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/11_circle.c",
+  "output": "CMakeFiles/C_Codes.dir/11_circle.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\1_HelloWorld.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\1_HelloWorld.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/1_HelloWorld.c",
+  "output": "CMakeFiles/C_Codes.dir/1_HelloWorld.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\2_Scape_Characters.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\2_Scape_Characters.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/2_Scape_Characters.c",
+  "output": "CMakeFiles/C_Codes.dir/2_Scape_Characters.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\3_comments.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\3_comments.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/3_comments.c",
+  "output": "CMakeFiles/C_Codes.dir/3_comments.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\4_data_types.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\4_data_types.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/4_data_types.c",
+  "output": "CMakeFiles/C_Codes.dir/4_data_types.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\4_variables.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\4_variables.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/4_variables.c",
+  "output": "CMakeFiles/C_Codes.dir/4_variables.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\5_format_specifier.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\5_format_specifier.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/5_format_specifier.c",
+  "output": "CMakeFiles/C_Codes.dir/5_format_specifier.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\6_constant.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\6_constant.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/6_constant.c",
+  "output": "CMakeFiles/C_Codes.dir/6_constant.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\7_arithmatic_operator.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\7_arithmatic_operator.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/7_arithmatic_operator.c",
+  "output": "CMakeFiles/C_Codes.dir/7_arithmatic_operator.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\8_augmented_operators.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\8_augmented_operators.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/8_augmented_operators.c",
+  "output": "CMakeFiles/C_Codes.dir/8_augmented_operators.c.obj"
+},
+{
+  "directory": "D:/Working Folder/ICT/C Codes/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/C_Codes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\C_Codes.dir\\9_user_input.c.obj -c \"D:\\Working Folder\\ICT\\C Codes\\9_user_input.c\"",
+  "file": "D:/Working Folder/ICT/C Codes/9_user_input.c",
+  "output": "CMakeFiles/C_Codes.dir/9_user_input.c.obj"
+}
+]
