@@ -40,4 +40,5 @@ add_executable(C_Codes
         tempCodeRunnerFile.c
         31_array.c
         32_iterate_array_elements.c
-        33_2D_array.c)
+        33_2D_array.c
+        33_string_arrays.c)
