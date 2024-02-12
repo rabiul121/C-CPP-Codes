@@ -42,4 +42,5 @@ add_executable(C_Codes
         32_iterate_array_elements.c
         33_2D_array.c
         33_string_arrays.c
-        34_value_swap.c)
+        34_value_swap.c
+        35_sort_array.c)
