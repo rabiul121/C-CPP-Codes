@@ -45,4 +45,5 @@ add_executable(C_Codes
         34_value_swap.c
         35_sort_array.c
         36_struct.c
-        37_typedef.c)
+        37_typedef.c
+        38_struct_array.c)
