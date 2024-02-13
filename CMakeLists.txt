@@ -46,4 +46,5 @@ add_executable(C_Codes
         35_sort_array.c
         36_struct.c
         37_typedef.c
-        38_struct_array.c)
+        38_struct_array.c
+        39_enum.c)
