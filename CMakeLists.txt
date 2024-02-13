@@ -48,4 +48,5 @@ add_executable(C_Codes
         37_typedef.c
         38_struct_array.c
         39_enum.c
-        40_pseudo_random_number.c)
+        40_pseudo_random_number.c
+        41_number_guessing_game.c)
