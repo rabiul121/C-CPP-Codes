@@ -53,4 +53,5 @@ add_executable(C_Codes
         42_quiz_game.c
         43_bitwise_operator.c
         44_memory.c
-        45_pointers.c)
+        45_pointers.c
+        47_file.c)
