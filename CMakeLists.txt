@@ -55,4 +55,5 @@ add_executable(C_Codes
         44_memory.c
         45_pointers.c
         47_file.c
-        48_read_file.c)
+        48_read_file.c
+        50_tic_tac_toe.c)
